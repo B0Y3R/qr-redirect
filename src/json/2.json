@@ -1,0 +1,20 @@
+{
+    "tag": {
+      "id": "2",
+      "active": true,
+      "brand": {
+        "id": "13bcaf4c-4686-4973-80c3-ad72d936f44c",
+        "name": "White Claw",
+        "active": true
+      },
+      "product": {
+        "id": "4501496b-7d0e-4544-8e99-aa4f3e3e88ee",
+        "sku": "B4501496b",
+        "name": "Spiked Sparkling Water",
+        "variant": "Tangerine",
+        "image": "https://firebasestorage.googleapis.com/v0/b/firebase-hosting-app-clip.appspot.com/o/2.jpeg?alt=media&token=2d528b23-60cb-4fa6-8573-4162aca2aaff",
+        "ageRestricted": true
+      }
+    }
+  }
+  
